@@ -20,4 +20,4 @@ Results:
 83% accuracy with logistic regression model 80% accuracy with Random forest model.
 
 Outline of project
-https://github.com/supriyamk2/Capstone-Project-20.1-Initial-Report-and-Exploratory-Data-Analysis-EDA-/blob/main/heart_attack_prediction.ipynb
+https://github.com/supriyamk2/Capstone-24.1/blob/main/heart_attack_prediction_24_1.ipynb
